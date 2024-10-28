@@ -377,11 +377,11 @@
     </comp>
     <comp lib="0" loc="(1830,420)" name="Constant"/>
     <comp lib="0" loc="(1880,1130)" name="Tunnel">
-      <a name="label" val="s0"/>
+      <a name="label" val="t1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1880,1260)" name="Tunnel">
-      <a name="label" val="s1"/>
+      <a name="label" val="t2"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1880,340)" name="Tunnel">
@@ -397,15 +397,15 @@
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1880,770)" name="Tunnel">
-      <a name="label" val="t0"/>
+      <a name="label" val="x3"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1880,880)" name="Tunnel">
-      <a name="label" val="t1"/>
+      <a name="label" val="x4"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1880,990)" name="Tunnel">
-      <a name="label" val="t2"/>
+      <a name="label" val="t0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(190,1430)" name="Tunnel">
@@ -531,15 +531,15 @@
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2140,340)" name="Tunnel">
-      <a name="label" val="a0"/>
+      <a name="label" val="s0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2140,500)" name="Tunnel">
-      <a name="label" val="x9"/>
+      <a name="label" val="s1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2140,640)" name="Tunnel">
-      <a name="label" val="x10"/>
+      <a name="label" val="a0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2140,770)" name="Tunnel">
@@ -1063,7 +1063,7 @@
     </comp>
     <comp lib="0" loc="(610,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="x10"/>
+      <a name="label" val="a0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(620,1650)" name="Tunnel">
@@ -1072,7 +1072,7 @@
     </comp>
     <comp lib="0" loc="(620,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="x10"/>
+      <a name="label" val="a0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(620,650)" name="Tunnel">
@@ -1098,7 +1098,7 @@
     </comp>
     <comp lib="0" loc="(640,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="x9"/>
+      <a name="label" val="s1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(650,1090)" name="Tunnel">
@@ -1108,7 +1108,7 @@
     </comp>
     <comp lib="0" loc="(650,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="x9"/>
+      <a name="label" val="s1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(660,1220)" name="Tunnel">
@@ -1125,7 +1125,7 @@
     </comp>
     <comp lib="0" loc="(680,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="a0"/>
+      <a name="label" val="s0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(690,1090)" name="Tunnel">
@@ -1135,7 +1135,7 @@
     </comp>
     <comp lib="0" loc="(690,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="a0"/>
+      <a name="label" val="s0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(700,1730)" name="Tunnel">
@@ -1165,7 +1165,7 @@
     </comp>
     <comp lib="0" loc="(720,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="s1"/>
+      <a name="label" val="t2"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(730,1090)" name="Tunnel">
@@ -1179,7 +1179,7 @@
     </comp>
     <comp lib="0" loc="(730,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="s1"/>
+      <a name="label" val="t2"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(740,650)" name="Tunnel">
@@ -1189,12 +1189,12 @@
     </comp>
     <comp lib="0" loc="(750,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="s0"/>
+      <a name="label" val="t1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(760,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="s0"/>
+      <a name="label" val="t1"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(770,1090)" name="Tunnel">
@@ -1215,7 +1215,7 @@
     </comp>
     <comp lib="0" loc="(790,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t2"/>
+      <a name="label" val="t0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(800,1220)" name="Tunnel">
@@ -1224,7 +1224,7 @@
     </comp>
     <comp lib="0" loc="(800,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t2"/>
+      <a name="label" val="t0"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(810,1090)" name="Tunnel">
@@ -1256,7 +1256,7 @@
     </comp>
     <comp lib="0" loc="(830,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t1"/>
+      <a name="label" val="x4"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(840,1730)" name="Tunnel">
@@ -1264,7 +1264,7 @@
     </comp>
     <comp lib="0" loc="(840,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t1"/>
+      <a name="label" val="x4"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(850,1090)" name="Tunnel">
@@ -1286,12 +1286,12 @@
     </comp>
     <comp lib="0" loc="(870,730)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t0"/>
+      <a name="label" val="x3"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(880,290)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="t0"/>
+      <a name="label" val="x3"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(890,1090)" name="Tunnel">
